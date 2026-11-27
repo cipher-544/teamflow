@@ -1,0 +1,32 @@
+{
+  "ORD-1001": {
+    "customer_id": "C-501",
+    "items": [{"sku": "SKU-HEAD-01", "name": "Wireless Headphones", "price": 2499}],
+    "order_date": "2026-11-10",
+    "notes": ""
+  },
+  "ORD-1002": {
+    "customer_id": "C-502",
+    "items": [{"sku": "SKU-SHOE-02", "name": "Running Shoes", "price": 3999}],
+    "order_date": "2026-08-01",
+    "notes": ""
+  },
+  "ORD-1003": {
+    "customer_id": "C-503",
+    "items": [{"sku": "SKU-BOOK-03", "name": "Laptop Backpack", "price": 1799}],
+    "order_date": "2026-11-01",
+    "notes": ""
+  },
+  "ORD-1004": {
+    "customer_id": "C-504",
+    "items": [{"sku": "SKU-WATCH-04", "name": "Smart Watch", "price": 5999}],
+    "order_date": "2026-11-15",
+    "notes": ""
+  },
+  "ORD-1005": {
+    "customer_id": "C-505",
+    "items": [{"sku": "SKU-SPKR-05", "name": "Bluetooth Speaker", "price": 2999}],
+    "order_date": "2026-11-12",
+    "notes": ""
+  }
+}
